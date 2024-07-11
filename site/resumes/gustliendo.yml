@@ -1,0 +1,66 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+    first_name: Gustavo
+    last_name: Liendo
+    motto: Dedication, learning, caring, helping, active
+    focus: Learning everything I can about web development and turn my self in to a great developer.
+    summary: |
+      I am a proactive individual who enjoys both outdoor activities and spending time on the computer. With a background as a web designer in wordpress. My current focus is on mastering web development, particularly in  JavaScript, React, and Python or C#.
+    avatar: https://media.licdn.com/dms/image/D4E03AQE3F0-0VDzipg/profile-displayphoto-shrink_400_400/0/1673021324167?e=1726099200&v=beta&t=OWLEnjdOPJmMAZl1AIUF0jPbFZJkTpbBzD8J3EbQVHE
+    email: example@example.com
+    linkedin: https://www.linkedin.com/in/gustavo-liendo-b5b668111/
+    github: https://github.com/G-code7
+
+languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: Fluent
+
+interests:
+    - item: Outdoor activities
+    - item: Technology
+    - item: Fitness
+
+experiences:
+    - role: Web Designer Frelance
+      time: 3 - 4 years
+      company: My self
+      details: |
+        lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+skills:
+    toolset:
+      - name: HTML5 & CSS
+        level: Advanced
+
+      - name: JavaScript (ES6+)
+        level: Advanced
+
+      - name: React.js
+        level: Intermediate
+
+      - name: WordPress
+        level: advance
+
+# Your previous education
+education:
+    - degree: Electronic Technician
+      university: Universidad Simón Bolivar
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2014 - 2019
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+
